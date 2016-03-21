@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mike McIntosh Artist]]></title>
         <description><![CDATA[Mike McIntosh Artist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mcintosh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 02:18:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 02:26:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mcintosh/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/268b29f6-8d11-4e3b-b602-ebfb2926c3e7.jpg">]]></description>
+            <link>https://thegrid.ai/mcintosh/11/index.html</link>
+            <guid isPermaLink="false">b43218c0-17ed-4e25-b36f-f8be99e877ee</guid>
+            <pubDate>Mon, 21 Mar 2016 02:26:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f33768d-80c2-48d5-87bd-d6ce597d2c10.jpg">]]></description>
-            <link>undefinedwinter-on-the-west-thumb-of-the-yellowstone/index.html</link>
+            <link>https://thegrid.ai/mcintosh/winter-on-the-west-thumb-of-the-yellowstone/index.html</link>
             <guid isPermaLink="false">d6e846d8-1eee-4a63-a2ae-227ad88d07d0</guid>
             <pubDate>Mon, 21 Mar 2016 02:18:15 GMT</pubDate>
         </item>
