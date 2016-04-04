@@ -5,23 +5,26 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-03-21T07:48:47.563Z'
-dateModified: '2016-03-21T07:48:37.527Z'
+description: Mother Nature and Jack Frost. What A Combo
+datePublished: '2016-04-04T00:54:46.729Z'
+dateModified: '2016-04-04T00:53:41.174Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-21-undefined.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-undefined.md
-published: true
 url: undefined/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c38924a-a62b-4bb9-abc2-f3f3fbf4f822.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f38c631-ec26-4512-b9d2-42be063969fd.jpg)
+
 Mother Nature and Jack Frost. What A Combo
 
 18"x 24" oil
