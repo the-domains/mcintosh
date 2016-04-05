@@ -1,6 +1,6 @@
 name: McIntosh
 favicon: null
-layout_spectrum: 0.9749632014427334
+layout_spectrum: 0.75181
 typography_spectrum: 0.5574678601697087
 title: Mike McIntosh Artist
 cta:
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0
-  lightness: 0.03991539101116359
-  saturation: 0
-  rhythmicContrast: 0.1480390401557088
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
