@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Yellowstone Cut throat
-datePublished: '2016-04-06T04:42:11.378Z'
-dateModified: '2016-04-04T00:55:40.172Z'
+datePublished: '2016-04-06T04:52:11.858Z'
+dateModified: '2016-04-06T04:42:17.308Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-21-yellowstone-cut-throat.md
