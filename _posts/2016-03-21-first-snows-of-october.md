@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: First Snows Of October
-datePublished: '2016-03-21T05:49:07.961Z'
-dateModified: '2016-03-21T05:48:56.264Z'
+datePublished: '2016-04-19T05:29:38.356Z'
+dateModified: '2016-04-04T01:05:28.548Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-21-first-snows-of-october.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-first-snows-of-october.md
-published: true
 url: first-snows-of-october/index.html
 _type: Article
 
