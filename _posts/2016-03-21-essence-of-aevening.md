@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: Essence Of Aevening
-datePublished: '2016-03-21T07:38:20.060Z'
-dateModified: '2016-03-21T07:37:59.453Z'
+description: Essence Of A Evening Sunset
+datePublished: '2016-06-19T03:30:31.271Z'
+dateModified: '2016-06-19T03:30:30.860Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-03-21-essence-of-aevening.md
-published: true
+authors: []
+publisher: null
+starred: false
 url: essence-of-aevening/index.html
 _type: Article
 
